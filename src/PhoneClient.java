@@ -10,6 +10,6 @@ public class PhoneClient {
 
         MobileCodeWSSoap mcss = mc.getMobileCodeWSSoap();
 
-        System.out.println(mcss.getMobileCodeInfo("15552597890", null));
+        System.out.println(mcss.getMobileCodeInfo("13402287986", null));
     }
 }
